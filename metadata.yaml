@@ -1,5 +1,8 @@
 _repo: The-Story-of-Little-Black-Sambo-and-The-Story-of-Little-Black-Mingo_1330
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bannerman, Helen
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/605
     wikipedia: http://en.wikipedia.org/wiki/Helen_Bannerman
 description: Includes Little Black Mingo
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1330#The-Story-of-Little-Black-Sambo-and-The-Story-of-Little-Black-Mingo
 gutenberg_issued: '1998-05-01'
 gutenberg_type: Text
 identifiers:
